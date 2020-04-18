@@ -10,7 +10,7 @@ This command will create a file called **anaconda-packages** that contains a lis
 
 Each line in **anaconda-packages** is like:
 
-    \'<package-name>==<version>\'
+    'package-name==version'
 
 ## Requirements
 
